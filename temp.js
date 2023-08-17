@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         New hello
+// @name         New hello world
 // @namespace    http://666.com/
 // @version      0.1
 // @description  try to take over the world!
